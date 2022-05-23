@@ -2,6 +2,7 @@
 \name{plot}
 \alias{plot.rcc}
 \alias{plot.acc}
+\alias{plot.racc}
 
 \title{Plot quality control chart}
 
@@ -14,6 +15,10 @@
 
 \method{plot}{rcc}(x, digits= getOption("digits")-2, col.line="cyan4", 
                    col.background="ivory", col.boundary="ivory4", 
+                   cex.text=0.7, x.text, text.offset=0, LCL, CL, UCL, \dots)
+
+\method{plot}{racc}(x, digits= getOption("digits")-2, col.line="cyan4",
+                   col.background="ivory", col.boundary="ivory4",
                    cex.text=0.7, x.text, text.offset=0, LCL, CL, UCL, \dots)
 }
 

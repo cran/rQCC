@@ -1,7 +1,7 @@
 Package: rQCC
 Title: Robust Quality Control Chart
-Version: 2.22.1
-Date: 2022-01-25
+Version: 2.22.5
+Date: 2022-05-23
 Authors@R: c(person(given="Chanseok",
                     family="Park",
                     role = c("aut", "cre"),
@@ -23,6 +23,6 @@ BugReports: https://GitHub.com/AppliedStat/R/issues
 Encoding: UTF-8
 LazyData: yes
 NeedsCompilation: no
-Packaged: 2022-01-25 13:18:47 UTC; cp
+Packaged: 2022-05-23 03:25:19 UTC; cp
 Repository: CRAN
-Date/Publication: 2022-01-25 16:32:43 UTC
+Date/Publication: 2022-05-23 06:30:02 UTC
